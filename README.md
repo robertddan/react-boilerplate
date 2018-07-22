@@ -1,0 +1,21 @@
+ # react-boilerplate
+babel-core: ^6.26.3<br>
+babel-loader: ^7.1.5<br>
+babel-preset-env: ^1.7.0<br>
+babel-preset-react: ^6.24.1<br>
+bootstrap: ^4.1.2<br>
+css-loader: ^1.0.0<br>
+fs-extra: ^7.0.0<br>
+html-loader: ^0.5.5<br>
+html-webpack-plugin: ^3.2.0<br>
+jquery: ^3.3.1<br>
+jquery-ui: ^1.12.1<br>
+popper.js: ^1.14.3<br>
+react: ^16.4.1<br>
+react-dom: ^16.4.1<br>
+react-router-dom: ^4.3.1<br>
+style-loader: ^0.21.0<br>
+uglifyjs-webpack-plugin: ^1.2.7<br>
+webpack: ^4.16.1<br>
+webpack-cli: ^3.1.0<br>
+webpack-dev-server: ^3.1.4<br>
